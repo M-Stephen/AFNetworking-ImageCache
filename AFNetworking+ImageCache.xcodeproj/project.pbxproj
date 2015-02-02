@@ -108,6 +108,7 @@
 		3EF4FA421A7F5330000EB798 /* HTTPResp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTTPResp.m; sourceTree = "<group>"; };
 		3EF4FA441A7F5D97000EB798 /* HTTPResult.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HTTPResult.h; sourceTree = "<group>"; };
 		3EF4FA451A7F5D97000EB798 /* HTTPResult.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HTTPResult.m; sourceTree = "<group>"; };
+		3EF4FA471A7F6A36000EB798 /* Api.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Api.h; path = HttpManager/Api.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -264,6 +265,7 @@
 				3EF4FA391A7F4D52000EB798 /* HTTPManager.h */,
 				3EF4FA3A1A7F4D52000EB798 /* HTTPManager.m */,
 				3EF4FA3C1A7F4FC0000EB798 /* HTTPManagerDefine.h */,
+				3EF4FA471A7F6A36000EB798 /* Api.h */,
 			);
 			name = HttpManager;
 			sourceTree = "<group>";
